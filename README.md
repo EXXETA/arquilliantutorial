@@ -16,3 +16,6 @@ Configure database in src/test/resources/META-INF/persistence.xml``.
 ```
 mvn clean test -Pit,coverage
 ```
+## Hint
+
+In order to start wildfly only once for all tests, take a look here: https://gist.github.com/aslakknutsen/3975179
