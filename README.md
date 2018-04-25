@@ -9,7 +9,7 @@ Install mysql connector like described here:
 ## Configuration
 
 Configure database as ``java:jboss/datasources/MYSQL`` in your ``standalone.xml``.
-Configure database in src/test/resources/META-INF/persistence.xml``.
+Configure database in ``src/test/resources/META-INF/persistence.xml``.
 
 ## Run tests
 
